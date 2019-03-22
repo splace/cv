@@ -6,11 +6,19 @@
 	<meta name="author" content="A S Place"/>
 	<meta name="created" content="2017-11-27T01:59:00"/>
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
-	<link rel="import" href="./README.md">
+	<link rel="import" href="https://github.com/splace/cv">
 	<style type="text/css">
 		body { font-family: 'Open Sans', sans-serif; so-language: en-GB }
 	</style>
 </head>
 <body lang="en-GB" dir="ltr">
+<script>
+var link = document.querySelector('link[rel="import"]');
+var content = link.import;
+
+var el = content.querySelector('.markdown-body');
+
+document.body.appendChild(el.cloneNode(true));
+</script>
 </body>
 </html>
