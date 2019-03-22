@@ -1,6 +1,7 @@
 
-|**SIMON ANTHONY PLACE**<address>2 Park Road, St Austell</address>|
+| **SIMON ANTHONY PLACE** |
 |:---:|
+|<address>2 Park Road, St Austell</address>|
 |<a href="mailto:psiplace@netscape.net?Subject=CV">psiplace@netscape.net</a> vcs:<a href="https:/github.com/splace">github.com/splace</a>|
   
 # JOB TARGET: __Software Developer__
