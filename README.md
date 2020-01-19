@@ -4,7 +4,7 @@
 |<address>2 Park Road, St Austell, Cornwall</address>|
 |<a href="mailto:psiplace@netscape.net?Subject=CV">psiplace@netscape.net</a> vcs:<a href="https:/github.com/splace">github.com/splace</a>|
   
-# JOB TARGET: __Quality Assistant__
+# JOB TARGET: __CAD ENGINEER__
   
 ## CAPABILITIES:
 
