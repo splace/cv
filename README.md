@@ -10,6 +10,7 @@
 
 * Long-term developer use of web-technologies
 * Deep understanding of computer systems.
+* Use and development of 3D graphics.
 * Up-to-date knowledge of technological trends.
 * Broad general knowledge.
 * Practised use of;  Go, JavaScript, Python, HTML5.
