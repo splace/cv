@@ -1,0 +1,68 @@
+/*cv.css*/
+body {
+	background: silver;
+}
+
+table{
+	width:100%;
+	padding:1em;
+	border:1px solid black;
+	background: white;
+	border-radius:.5em;
+}
+
+thead tr{
+	font-size:larger;
+}
+
+tbody tr{
+	text-align:center;
+}
+
+address{
+	font-size:smaller;
+	font-stretch: narrow;
+	text-align:left;
+}
+
+H1 Strong, th Strong{
+	color:white;
+	background:blue; #steelblue; #peachpuff;
+	border-radius:.5em;
+	padding:0 .5em 0 .5em;
+	border-style:outset;
+}
+
+ul{
+	background:green; #grey;
+	padding:1.2em;
+	padding-top:1px;
+	padding-bottom:1px;
+	margin:2px;
+	list-style:none;
+}
+
+li{
+	background:lightgrey;
+	padding-left:1em;
+	margin:2px;
+}
+
+p{
+	margin:.2em;
+	border-left:.3em solid;
+	padding-left:.5em;
+}
+
+em{
+	color:red;
+}
+
+p:nth-of-type(2n+1) {
+	background:lightgrey;
+}
+
+p:nth-of-type(2n) {
+	background:lightblue;
+}
+
