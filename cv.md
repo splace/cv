@@ -1,7 +1,7 @@
 |**ANTHONY SIMON PLACE**|
 |:---:|
 2 Park Road<br>St Austell<br>PL25 5EZ|
-|email:<a href="mailto:psiplace@netscape.net?Subject=CV">psiplace@netscape.net</a> vcs:<a href="https:/github.com/splace/">github.com/splace</a>|
+|email:<a href="mailto:psiplace@netscape.net?Subject=CV">psiplace@netscape.net</a> vcs:<a href="http:/github.com/splace/">http:/github.com/splace</a>|
   
 <!--# JOB TARGET: __<<job target>>__-->
 # JOB TARGET: __Software Developer__
