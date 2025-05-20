@@ -13,8 +13,8 @@
 ## CAPABILITIES:
 
 <!--* Experience in fabrication/machining.-->
-* Coding in; GoLang, JavaScript, Python, HTML5.
-* Working familiarity with; SQL, VisualBasic, .Net, Pascal, Fortran, Java, M/C, Ladder logic (PLC)
+* Coding in; GoLang, JavaScript, Python, HTML.
+* Working familiarity with; SQL, VisualBasic, .Net, Pascal, Java, M/C, Ladder logic (PLC)
 * Use and development of 3D graphics.
 * Experience with Mathematical modelling and simulation.
 * Cloud Computing Experience.
